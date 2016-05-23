@@ -9,14 +9,12 @@ This will create four executables for you to run.
 
 Three different threading libraries and one implicit thread testing program
 
-### Running Explicit: ###
 
-	./boost_threads 10
+	./boost_threads 100
 
 This will run the boost_thread implimentation with 10 threads.
 All three programs are run the same way and can be started with up to 100 threads.
 
-### Running Implicit: ###
 
 	./implicit
 
