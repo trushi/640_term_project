@@ -1,4 +1,4 @@
-# Library_benchmark
+# Libraries benchmarking on different number of cores 
 Our main goal is to do benchmarking so that we could demonstrate which type of multi-threading is better for a specific core number processor. Also, we wanted to analyze and compare different libraries available to achieve explicit multi-threading to see how they perform so that we could conclude which library is the best as compared to others.
 
 ### Run:###
